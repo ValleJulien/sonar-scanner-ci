@@ -1,6 +1,6 @@
-# sonar-canner-ci
+# sonar-scanner-ci
 
-Quick sonar scanner docker image. 
+Quick sonar scanner docker image to use in CI/CD tools
 
 Contribute to ValleJulien/docker-sonar-scanner development by creating an account on GitHub and feel free to create PR and MR.
 
