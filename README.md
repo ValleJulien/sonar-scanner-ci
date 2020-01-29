@@ -1,8 +1,8 @@
 # sonar-canner-ci
 
 Quick sonar scanner docker image. 
-Contribute to ValleJulien/docker-sonar-scanner development by creating an account on GitHub.
-Feel free to create PR and MR.
+
+Contribute to ValleJulien/docker-sonar-scanner development by creating an account on GitHub and feel free to create PR and MR.
 
 ### Use Case with gitlab ci
 ```yaml
